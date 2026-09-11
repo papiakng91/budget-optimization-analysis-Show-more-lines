@@ -79,7 +79,3 @@ This analysis helps identify the most effective budget allocation strategy.
 
 Data Analyst | Marketing Analytics Analyst | Media Analyst
 ---
-
-## Dashboard Preview
-
-![Profit Dashboard](Profit_Dashboard_Excel.png
