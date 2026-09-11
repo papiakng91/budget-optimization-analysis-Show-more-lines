@@ -84,4 +84,4 @@ Data Analyst | Marketing Analytics Analyst | Media Analyst
 
 ### Profit Dashboard
 
-![Profit Dashboard](Profit_Dashboard
+Profit_Dashboard_Excel.png
